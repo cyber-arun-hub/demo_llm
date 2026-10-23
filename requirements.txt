@@ -6,3 +6,5 @@ uvicorn
 google-genai
 groq
 mistralai
+
+python-multipart
