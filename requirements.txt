@@ -7,4 +7,9 @@ google-genai
 groq
 mistralai
 
-python-multipart
+pymupdf
+easyocr
+
+sentence-transformers
+chromadb
+python-multipart
