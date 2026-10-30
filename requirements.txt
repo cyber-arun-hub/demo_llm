@@ -1,15 +1,11 @@
 python-dotenv
 
+google-genai
+groq
+
 fastapi
 uvicorn
 
-google-genai
-groq
-mistralai
-
 pymupdf
-easyocr
-
-sentence-transformers
 chromadb
-python-multipart
+sentence-transformers
